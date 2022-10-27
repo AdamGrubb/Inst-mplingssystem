@@ -34,7 +34,7 @@ namespace Övningen27augusti
                 tidVal = value;
             }
         }
-        public List<string> instämplingar = new List<string>() { "Hejhå"};
+        public List<string> instämplingar = new List<string>();
 
 
         public MainWindow()
